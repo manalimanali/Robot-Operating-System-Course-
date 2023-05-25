@@ -1,4 +1,4 @@
-
+/*5. Write a program which accept principle, rate and time from user and print the simple interest. */
  #include <iostream>
 
 using namespace std;
