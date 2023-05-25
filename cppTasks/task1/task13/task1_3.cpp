@@ -1,3 +1,6 @@
+/*Write a program which accept two numbers and print their sum. */
+
+
 
 #include <iostream>
 
